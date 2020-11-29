@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+}
+p{
+    font-size: 12px;
+    color: #008000;
+    text-decoration: line-through;
+}
+h1{
+    color: #0000FF;
+    text-transform: capitalize
+    margin: 20px;
+    padding: 40px;
+
+    border-style: dashed;
+    border-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: red;
+}
+
+h2{
+
+  text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6{
+  background-color: #888888;
+}
+
+p, h1, h2, h3, h4, h5, h6{
+  font-family: sans-serif;
+}
+
+#intro{
+      border-style: solid;
+      border-width: 3px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: black;
+}
+
+.spotlight{
+  background-color: #FEFE22;
+}
+
+
+p, h2{
+  color: darkgreen;
+
+}
